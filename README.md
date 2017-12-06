@@ -1,2 +1,2 @@
 # shuffle
-孟孟的个人博客
+孟孟的个人GitHub
